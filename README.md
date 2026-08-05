@@ -51,10 +51,6 @@ Arquivo correspondente: `Tabuada.pas`
 
 **Cargo:** Desenvolvedor Delphi
 
-🔗 **Link da vaga:**
-
-https://www.linkedin.com/jobs/view/4437291827/
-
 ### Conhecimentos comuns para a área
 
 - Desenvolvimento com Delphi e Object Pascal;
